@@ -4,7 +4,7 @@
 I am a full-stack web developer from Tampa, Florida. I am passionate about developing my skills to benefit other fields. I am consistently expanding my knowledge to include other languages outside of my curriculum including Python and C/C#. My focus is on expanding my skillset and finding new ways to utilize languages in different ways. 
 My passion for motorsport and videogames is what has driven me to constantly challenge myself and learn new ways that could improve software used in simulators and video games. 
 
-“Enjoy the butterflies, Enjoy being naive. Enjoy the nerves, the pressure. If you want to stand on top from day one, then there’s nothing else to look forward to. Enjoy the process of making a name for yourself, and meeting some great people along the way. There are a lot of worldly people in this paddock that you can laugh with, learn from, enjoy some moments with. Embrace the good ones. Stay focused. Don’t veer too far off your path. Build, grow, learn from yourself. Don’t forget what got you here.” - Daniel Ricciardo
+“Enjoy the butterflies, Enjoy being naive. Enjoy the nerves, the pressure. If you want to stand on top from day one, then there’s nothing else to look forward to.” - Daniel Ricciardo
 
 
 🌱 I’m currently learning **JavaScript, HTML, CSS, React, and User Interface**
